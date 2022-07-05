@@ -1,7 +1,8 @@
 # Discord-Token-Checker
 Program coded in python used to check discord tokens to see if they return a valid response will then output them to the console!
 
-![372108630_DISCORD_LOGO_BLACK_400](https://user-images.githubusercontent.com/108766003/177420626-fe7da2aa-f8ca-4e36-8038-0de13ebf7933.gif)
+![uwp1935030](https://user-images.githubusercontent.com/108766003/177421823-aa516a37-5195-4c04-8d2c-e45b78a8a4f4.gif)
+
 
 - 📰 INFORMATION:
 [!] Quick Checker - No Pause
